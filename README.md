@@ -14,7 +14,7 @@ Para utilizar a lista no Adblock-OpenWRT baixe o [script](https://gitlab.com/mar
 
 Baixe o script para [Pi-Hole](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/pihole_collect.sh) em seu sistema e execute `sudo bash pihole_collect.sh install`
 
-Download the script to [Adguard Home](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/adguard_collect.sh) on your system, set the variable `ADGUARDDIR='/opt/AdGuardHome'` on line 39 indicating the Adguard Home folder path and run `sudo bash adguard_collect.sh install` for non-OpenWRT systems and` sh adguard_collect.sh install` for OpenWRT systems
+Baixe o script para [Adguard Home](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/adguard_collect.sh) em seu sistema, ajuste na linha 39 a variável `ADGUARDDIR='/opt/AdGuardHome'` indicando o caminha da pasta do Adguard Home e execute `sudo bash adguard_collect.sh install` para sistema não OpenWRT e `sh adguard_collect.sh install` para sistemas OpenWRT
 
 Baixe o script para [OpenWRT](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/openwrt_collect.sh) em seu sistema e execute `sh openwrt_collect.sh install`
 
@@ -33,7 +33,7 @@ It is possible to assist in the collection of video advertising urls. To do this
 
 Download the script to [Pi-Hole](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/pihole_collect.sh) on your system and run `sudo bash pihole_collect.sh install`
 
-Download the script to [Adguard Home](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/adguard_collect.sh) on your system, set the variable `ADGUARDDIR='/opt/AdGuardHome'` on line 39 starting the Adguard Home folder path and run `sudo bash adguard_collect.sh install` for non-OpenWRT system and` sh adguard_collect.sh install` for OpenWRT systems
+Download the script to [Adguard Home](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/adguard_collect.sh) on your system, set the variable `ADGUARDDIR='/opt/AdGuardHome'` on line 39 indicating the Adguard Home folder path and run `sudo bash adguard_collect.sh install` for non-OpenWRT systems and` sh adguard_collect.sh install` for OpenWRT systems
 
 Download the script for [OpenWRT](https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/openwrt_collect.sh) on your system and run `sh openwrt_collect.sh install`
 
