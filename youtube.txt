@@ -883,8 +883,6 @@ r10---sn-uxanug5-coxz.googlevideo.com
 r10---sn-uxanug5-ntqd.googlevideo.com
 r10---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r10---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r10---sn-uxaxh5g-gxje.googlevideo.com
-r10---sn-uxaxh5g-gxjl.googlevideo.com
 r10---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r10---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r10---sn-uxaxovg-vnay.googlevideo.com
@@ -1851,8 +1849,6 @@ r11---sn-uxanug5-coxz.googlevideo.com
 r11---sn-uxanug5-ntqd.googlevideo.com
 r11---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r11---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r11---sn-uxaxh5g-gxje.googlevideo.com
-r11---sn-uxaxh5g-gxjl.googlevideo.com
 r11---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r11---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r11---sn-uxaxovg-vnay.googlevideo.com
@@ -2819,8 +2815,6 @@ r12---sn-uxanug5-coxz.googlevideo.com
 r12---sn-uxanug5-ntqd.googlevideo.com
 r12---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r12---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r12---sn-uxaxh5g-gxje.googlevideo.com
-r12---sn-uxaxh5g-gxjl.googlevideo.com
 r12---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r12---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r12---sn-uxaxovg-vnay.googlevideo.com
@@ -3787,8 +3781,6 @@ r13---sn-uxanug5-coxz.googlevideo.com
 r13---sn-uxanug5-ntqd.googlevideo.com
 r13---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r13---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r13---sn-uxaxh5g-gxje.googlevideo.com
-r13---sn-uxaxh5g-gxjl.googlevideo.com
 r13---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r13---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r13---sn-uxaxovg-vnay.googlevideo.com
@@ -4755,8 +4747,6 @@ r14---sn-uxanug5-coxz.googlevideo.com
 r14---sn-uxanug5-ntqd.googlevideo.com
 r14---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r14---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r14---sn-uxaxh5g-gxje.googlevideo.com
-r14---sn-uxaxh5g-gxjl.googlevideo.com
 r14---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r14---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r14---sn-uxaxovg-vnay.googlevideo.com
@@ -5723,8 +5713,6 @@ r15---sn-uxanug5-coxz.googlevideo.com
 r15---sn-uxanug5-ntqd.googlevideo.com
 r15---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r15---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r15---sn-uxaxh5g-gxje.googlevideo.com
-r15---sn-uxaxh5g-gxjl.googlevideo.com
 r15---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r15---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r15---sn-uxaxovg-vnay.googlevideo.com
@@ -6691,8 +6679,6 @@ r16---sn-uxanug5-coxz.googlevideo.com
 r16---sn-uxanug5-ntqd.googlevideo.com
 r16---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r16---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r16---sn-uxaxh5g-gxje.googlevideo.com
-r16---sn-uxaxh5g-gxjl.googlevideo.com
 r16---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r16---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r16---sn-uxaxovg-vnay.googlevideo.com
@@ -7659,8 +7645,6 @@ r17---sn-uxanug5-coxz.googlevideo.com
 r17---sn-uxanug5-ntqd.googlevideo.com
 r17---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r17---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r17---sn-uxaxh5g-gxje.googlevideo.com
-r17---sn-uxaxh5g-gxjl.googlevideo.com
 r17---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r17---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r17---sn-uxaxovg-vnay.googlevideo.com
@@ -8627,8 +8611,6 @@ r18---sn-uxanug5-coxz.googlevideo.com
 r18---sn-uxanug5-ntqd.googlevideo.com
 r18---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r18---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r18---sn-uxaxh5g-gxje.googlevideo.com
-r18---sn-uxaxh5g-gxjl.googlevideo.com
 r18---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r18---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r18---sn-uxaxovg-vnay.googlevideo.com
@@ -9595,8 +9577,6 @@ r19---sn-uxanug5-coxz.googlevideo.com
 r19---sn-uxanug5-ntqd.googlevideo.com
 r19---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r19---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r19---sn-uxaxh5g-gxje.googlevideo.com
-r19---sn-uxaxh5g-gxjl.googlevideo.com
 r19---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r19---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r19---sn-uxaxovg-vnay.googlevideo.com
@@ -10564,8 +10544,6 @@ r1---sn-uxanug5-coxz.googlevideo.com
 r1---sn-uxanug5-ntqd.googlevideo.com
 r1---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r1---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r1---sn-uxaxh5g-gxje.googlevideo.com
-r1---sn-uxaxh5g-gxjl.googlevideo.com
 r1---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r1---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r1---sn-uxaxovg-vnay.googlevideo.com
@@ -11532,8 +11510,6 @@ r20---sn-uxanug5-coxz.googlevideo.com
 r20---sn-uxanug5-ntqd.googlevideo.com
 r20---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r20---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r20---sn-uxaxh5g-gxje.googlevideo.com
-r20---sn-uxaxh5g-gxjl.googlevideo.com
 r20---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r20---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r20---sn-uxaxovg-vnay.googlevideo.com
@@ -12501,8 +12477,6 @@ r2---sn-uxanug5-coxz.googlevideo.com
 r2---sn-uxanug5-ntqd.googlevideo.com
 r2---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r2---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r2---sn-uxaxh5g-gxje.googlevideo.com
-r2---sn-uxaxh5g-gxjl.googlevideo.com
 r2---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r2---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r2---sn-uxaxovg-vnay.googlevideo.com
@@ -13469,8 +13443,6 @@ r3---sn-uxanug5-coxz.googlevideo.com
 r3---sn-uxanug5-ntqd.googlevideo.com
 r3---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r3---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r3---sn-uxaxh5g-gxje.googlevideo.com
-r3---sn-uxaxh5g-gxjl.googlevideo.com
 r3---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r3---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r3---sn-uxaxovg-vnay.googlevideo.com
@@ -14437,8 +14409,6 @@ r4---sn-uxanug5-coxz.googlevideo.com
 r4---sn-uxanug5-ntqd.googlevideo.com
 r4---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r4---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r4---sn-uxaxh5g-gxje.googlevideo.com
-r4---sn-uxaxh5g-gxjl.googlevideo.com
 r4---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r4---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r4---sn-uxaxovg-vnay.googlevideo.com
@@ -15405,8 +15375,6 @@ r5---sn-uxanug5-coxz.googlevideo.com
 r5---sn-uxanug5-ntqd.googlevideo.com
 r5---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r5---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r5---sn-uxaxh5g-gxje.googlevideo.com
-r5---sn-uxaxh5g-gxjl.googlevideo.com
 r5---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r5---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r5---sn-uxaxovg-vnay.googlevideo.com
@@ -16373,8 +16341,6 @@ r6---sn-uxanug5-coxz.googlevideo.com
 r6---sn-uxanug5-ntqd.googlevideo.com
 r6---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r6---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r6---sn-uxaxh5g-gxje.googlevideo.com
-r6---sn-uxaxh5g-gxjl.googlevideo.com
 r6---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r6---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r6---sn-uxaxovg-vnay.googlevideo.com
@@ -17341,8 +17307,6 @@ r7---sn-uxanug5-coxz.googlevideo.com
 r7---sn-uxanug5-ntqd.googlevideo.com
 r7---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r7---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r7---sn-uxaxh5g-gxje.googlevideo.com
-r7---sn-uxaxh5g-gxjl.googlevideo.com
 r7---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r7---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r7---sn-uxaxovg-vnay.googlevideo.com
@@ -18309,8 +18273,6 @@ r8---sn-uxanug5-coxz.googlevideo.com
 r8---sn-uxanug5-ntqd.googlevideo.com
 r8---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r8---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r8---sn-uxaxh5g-gxje.googlevideo.com
-r8---sn-uxaxh5g-gxjl.googlevideo.com
 r8---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r8---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r8---sn-uxaxovg-vnay.googlevideo.com
@@ -19277,8 +19239,6 @@ r9---sn-uxanug5-coxz.googlevideo.com
 r9---sn-uxanug5-ntqd.googlevideo.com
 r9---sn-uxax3vh50nugp5-8px6.googlevideo.com
 r9---sn-uxax3vh50nugp5-8pxk.googlevideo.com
-r9---sn-uxaxh5g-gxje.googlevideo.com
-r9---sn-uxaxh5g-gxjl.googlevideo.com
 r9---sn-uxaxjvh5gbxoupo5-jo9e.googlevideo.com
 r9---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r9---sn-uxaxovg-vnay.googlevideo.com

@@ -18,6 +18,8 @@ rm youTube_ads_4_pi.txt
 wget https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt -O youTube_ads_4_pi.txt
 cat youTube_ads_4_pi.txt >> youtube.txt
 rm youTube_ads_4_pi.txt
+cat youtube.txt | grep -v "cxae.g" | grep -v "gxje.g" | grep -v "gxjs.g" | grep -v "gxjl.g" | grep -v "blocked" > temp.txt
+mv temp.txt youtube.txt
 sed -i 's/sn--/sn-/' youtube.txt
 for i in $(cat youtube.txt | cut -d"." -f1 | awk -F"sn-" '{print $2}'); do
   for j in $(seq 20); do
