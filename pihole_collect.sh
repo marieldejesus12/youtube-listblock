@@ -77,7 +77,7 @@ function install() {
 function upgrade() {
   #Check remote version
   echov "Checking updates"
-  REMOTE=$(curl https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/$SCRIPT | grep 'VERSION=' | sed 's/^.*=//') > /dev/null 2>&1
+  REMOTE=$(curl https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/$SCRIPT | grep 'VERSION=' | grep -v 'sed' | sed 's/^.*=//') > /dev/null 2>&1
   #Update if available update
   if [[ $VERSION -lt $REMOTE ]]; then
     echov "Updates found, updating"
