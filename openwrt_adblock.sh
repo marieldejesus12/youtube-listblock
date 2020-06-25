@@ -1,13 +1,13 @@
 #!/usr/bin/env ash
 #
-# ------------------------------------------------- -----------------------------
+# ------------------------------------------------------------------------------
 #
 # YouTube BlockList Adguard Home collect Script
 #
 # AUTHOR: Mariel de Jesus ™ <marieldejesus12@gmail.com>
 # MAINTAINERS:
 #
-# ------------------------------------------------- -----------------------------
+# ------------------------------------------------------------------------------
 #
 # DESCRIPTION:
 #
@@ -15,19 +15,19 @@
 # YouTube list ListBlock on the WEB and inserts it in the Adblock-OpenWRT
 # blacklist.
 #
-# ------------------------------------------------- -----------------------------
+# ------------------------------------------------------------------------------
 #
 # LICENSE:
 # This program is Free Software, you can redistribute and / or modify it under
-# the terms of the GNU General Public License Version 3 published by Free Software
-# Foundation.
+# the terms of the GNU General Public License Version 3 published by Free
+# Software Foundation.
 #
-# This program is distributed in the hope that it will be useful, but WITHOUT ANY
-# WARRANTY; Without even implying guarantees of MERCHANTABILITY or ADAPTATION TO AN
-# PRIVATE PURPOSE. See the GNU General Public License (GPL) for more
-# details (https://www.gnu.org/licenses/gpl-3.0.html).
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; Without even implying guarantees of MERCHANTABILITY or
+# ADAPTATION TO AN PRIVATE PURPOSE. See the GNU General Public License (GPL)
+# for more details (https://www.gnu.org/licenses/gpl-3.0.html).
 #
-# ------------------------------------------------- -----------------------------
+# ------------------------------------------------------------------------------
 #
 # DEPENDENCIES:
 #
