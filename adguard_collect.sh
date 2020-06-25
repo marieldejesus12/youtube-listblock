@@ -92,9 +92,9 @@ function upgrade() {
   #Update if available update
   if [[ $VERSION -lt $REMOTE ]]; then
     echov "Updates found, updating"
-    LOG=`cat $0 | sed -n '4p' | cut -d"'" -f2`
+    DIR=`cat $0 | grep "ADGUARDDIR=" | grep -v "sed" | cut -d"'" -f2`
     curl https://gitlab.com/marieldejesus12/youtube-listblock/-/raw/master/$SCRIPT -o $0
-    sed -i "s|ADGUARDLOG='/opt/AdGuardHome/data/querylog.json'|ADGUARDLOG='$LOG'|" $0
+    sed -i "s|ADGUARDDIR='/opt/AdGuardHome''|ADGUARDDIR='$DIR'|" $0
     echov "Upgrade $0 complete, checking installation"
     $0 install
   else
