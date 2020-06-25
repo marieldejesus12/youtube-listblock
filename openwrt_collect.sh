@@ -35,7 +35,7 @@
 # perl curl grep
 #
 # ------------------------------------------------------------------------------
-VERSION=40
+VERSION=41
 OVERLAY=$(df | grep '/dev/sd' | awk '{print $2,$6}' | sort -nr | sed -n '1p' | awk '{print $2}')
 if [[ "$OVERLAY" = "" ]]; then
   SYSTEMLOG="/tmp/system.log"
@@ -167,7 +167,7 @@ function update() {
   perl -i -ne 'print if ! $x{$_}++' $FILETMP
 
   #copy file to blacklist
-  cat $FILETMP | grep -v "cxae" | grep -v "blocked" >> $LOCALLIST
+  cat $FILETMP | grep -v "cxae.g" | grep -v "gxje.g" | grep -v "gxjs.g" | grep -v "gxjl.g" | grep -v "blocked" >> $LOCALLIST
 
   #Remove excess of hifens
   sed -i 's/------/---/' $LOCALLIST

@@ -35,7 +35,7 @@
 # perl curl grep
 #
 # ------------------------------------------------------------------------------
-VERSION=40
+VERSION=41
 PIHOLELOG="/var/log/pihole.log"
 CRONTAB="/var/spool/cron/crontabs/root"
 SCRIPT="$(basename $0)"
@@ -142,7 +142,7 @@ function update() {
   perl -i -ne 'print if ! $x{$_}++' $FILETMP
 
   #copy file to blacklist
-  cat $FILETMP | grep -v "cxae" | grep -v "blocked" >> $LOCALLIST
+  cat $FILETMP | grep -v "cxae.g" | grep -v "gxje.g" | grep -v "gxjs.g" | grep -v "gxjl.g" | grep -v "blocked" >> $LOCALLIST
 
   #Remove excess of hifens
   sed -i 's/------/---/' $LOCALLIST
