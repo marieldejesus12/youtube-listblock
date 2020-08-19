@@ -113,7 +113,9 @@ function move_rename() {
     uci set system.cfg01e48a.log_file="$SYSTEMLOG"
     uci set system.cfg01e48a.log_size='1024000'
   fi
+  uci set dhcp.cfg01411c.logqueries='1'
   uci commit system
+  uci commit dhcp
   #Move script to /usr/bin
   if [[ "$0" != "/usr/bin/openwrt_collect.sh"  ]]; then
     echov "Moving script to /usr/bin"
